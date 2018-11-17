@@ -1,0 +1,3 @@
+﻿  LogWriter.cpp
+d:\psworkspace\ps-projects\source\webspectortcpnet\logsystem\logwriter.cpp(81): error C2664: 'void OutputDebugStringA(LPCSTR)': cannot convert argument 1 from 'wchar_t *' to 'LPCSTR'
+  d:\psworkspace\ps-projects\source\webspectortcpnet\logsystem\logwriter.cpp(81): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
